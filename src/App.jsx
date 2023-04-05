@@ -5,7 +5,10 @@ function App() {
 
   return (
     <div className="App">
-     hello world
+     <div className='search-bar-container'>
+      <div>SearchBar</div>
+      <div>SearchResults</div>
+     </div>
     </div>
   )
 }
